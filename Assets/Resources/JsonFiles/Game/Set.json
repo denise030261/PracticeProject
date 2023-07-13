@@ -1,0 +1,54 @@
+{
+    "Sets": [
+        {
+            "Color": "DogGum",
+            "emblemAssets": "Fantasy Emblem3_128_W_7",
+            "Sort": "아침의 천국"
+        },
+        {
+            "Color": "Space",
+            "emblemAssets": "Fantasy Emblem3_128_W_8",
+            "Sort": "바람의 천국"
+        },
+        {
+            "Color": "Kpop",
+            "emblemAssets": "Fantasy Emblem3_128_W_12",
+            "Sort": "별빛 천국"
+        },
+        {
+            "Color": "Sunflower",
+            "emblemAssets": "Fantasy Emblem3_128_W_13",
+            "Sort": "먹깨비 천국"
+        },
+        {
+            "Color": "Bamboo",
+            "emblemAssets": "Fantasy Emblem3_128_W_15",
+            "Sort": "달콤한 천국"
+        },
+        {
+            "Color": "hiphop",
+            "emblemAssets": "Fantasy Emblem3_128_W_20",
+            "Sort": "문학의 천국"
+        },
+        {
+            "Color": "Aurora",
+            "emblemAssets": "Fantasy Emblem3_128_W_25",
+            "Sort": "숲속의 천국"
+        },
+        {
+            "Color": "Toy",
+            "emblemAssets": "Fantasy Emblem3_128_W_33",
+            "Sort": "음악의 천국"
+        },
+        {
+            "Color": "Game",
+            "emblemAssets": "Fantasy Emblem3_128_W_34",
+            "Sort": "치유의 천국"
+        },
+        {
+            "Color": "Cake",
+            "emblemAssets": "Fantasy Emblem3_128_W_37",
+            "Sort": "로맨스 천국"
+        }
+    ]
+}
