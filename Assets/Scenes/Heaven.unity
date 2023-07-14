@@ -1145,6 +1145,7 @@ GameObject:
   - component: {fileID: 490307889}
   - component: {fileID: 490307893}
   - component: {fileID: 490307894}
+  - component: {fileID: 490307895}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -1281,6 +1282,21 @@ MonoBehaviour:
   Front: {fileID: 1260046973}
   Side1: {fileID: 737668436}
   Side2: {fileID: 1662635201}
+--- !u!114 &490307895
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 490307888}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f874a12850644f56987f299c22937ef, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  assignedImage: {fileID: 977261716}
+  jsonFilePath: JsonFiles/record
+  compareButton: {fileID: 1114729284}
 --- !u!1 &497552464
 GameObject:
   m_ObjectHideFlags: 0
@@ -4718,7 +4734,8 @@ MonoBehaviour:
   textElement: {fileID: 1494550204}
   emblemImagesFolderPath: Assets/Download Assets/Fantasy Emblem3(living) Set Pack/FantasyEmblem3_128_W
   sortImagesFolderPath: Assets/Resources/Image/Heaven/tickets
-  jsonFilePath: Assets/Resources/JsonFiles/Game/Set.json
+  setJsonFilePath: Assets/Resources/JsonFiles/Game/Set.json
+  recordJsonFilePath: Assets/Resources/JsonFiles/record.json
 --- !u!1 &1932327678
 GameObject:
   m_ObjectHideFlags: 0
